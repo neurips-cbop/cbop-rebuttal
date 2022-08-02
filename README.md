@@ -12,11 +12,11 @@ The methods that are compared here include:
 
 Here are the results:
 
-1. When we compare EDAC vs. CBOP (w. EDAC pretraining)
+1. When we compare EDAC vs. CBOP (w. EDAC pretraining). Results are evaluated on all locomotion configurations (3 x 6 = 18 tasks).
 
 <img src="https://github.com/neurips-cbop/cbop-rebuttal/blob/main/locomotion_aggregates_all_tasks.png" width="1000">
 
-2. When we compare EDAC, CBOP (w. EDAC pretraining), and CBOP (w/o EDAC pretraining)
+2. When we compare EDAC, CBOP (w. EDAC pretraining), and CBOP (w/o EDAC pretraining). Results are evaluated on 9 locomotion configurations (3 tasks per environment).
 
 <img src="https://github.com/neurips-cbop/cbop-rebuttal/blob/main/locomotion_aggregates_9tasks.png" width="1000">
 
