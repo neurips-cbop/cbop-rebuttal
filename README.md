@@ -7,8 +7,8 @@ RLiable provides a reliable comparison between different RL algorithms when ther
 The methods that are compared here include:
 
 1. Reproduced EDAC following the author provided code.
-2. CBOP trained starting from a policy and a value function pre-trained by EDAC.
-3. CBOP trained with the initialization given by policy evaluation and behavior cloning of the given offline data in a supervised manner.
+2. (CBOP-EDAC) CBOP trained starting from a policy and a value function pre-trained by EDAC.
+3. (CBOP-BC+PE) CBOP trained with the initialization given by policy evaluation and behavior cloning of the given offline data in a supervised manner.
 
 Here are the results:
 
