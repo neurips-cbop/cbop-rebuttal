@@ -24,4 +24,4 @@ Here are the results:
 * For the first three metrics (Median, IQM, Mean), the higher the better; whereas for Optimality Gap, the lower the better. 
 * Notice also that the confidence intervals of CBOP do not overlap with those of EDAC, indicating statistically significant improvement over the baseline.
 * Interestingly, CBOP with EDAC pretraining turns out to underperform CBOP w/o pretraining (we selected 9 tasks for this evaluation due to limited resources we have until the rebuttal deadline). 
-* This result is consistent with the results of EDAC and CBOP-EDAC reported in the initial submission.
+* The results of EDAC and CBOP-EDAC are consistent with the ones reported in the initial submission
