@@ -14,11 +14,11 @@ Here are the results:
 
 1. When we compare EDAC vs. CBOP (w. EDAC pretraining)
 
-<img src="https://github.com/neurips-cbop/cbop-rebuttal/blob/main/locomotion_aggregates_all_tasks.png" width="800">
+<img src="https://github.com/neurips-cbop/cbop-rebuttal/blob/main/locomotion_aggregates_all_tasks.png" width="1000">
 
 2. When we compare EDAC, CBOP (w. EDAC pretraining), and CBOP (w/o EDAC pretraining)
 
-<img src="https://github.com/neurips-cbop/cbop-rebuttal/blob/main/locomotion_aggregates_9tasks.png" width="800">
+<img src="https://github.com/neurips-cbop/cbop-rebuttal/blob/main/locomotion_aggregates_9tasks.png" width="1000">
 
 * Notice that CBOP performance (regardless of pretraining) is consistently better than that of EDAC in all the metrics used to evaluate the algorithms. 
 * For the first three metrics (Median, IQM, Mean), the higher the better; whereas for Optimality Gap, the lower the better. 
