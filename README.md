@@ -16,11 +16,15 @@ Here are the results:
 
 <img src="https://github.com/neurips-cbop/cbop-rebuttal/blob/main/locomotion_aggregates_all_tasks.png" width="1000">
 
+__[Added]  The probability of CBOP-EDAC being better than EDAC__:
+
 <img src="https://github.com/neurips-cbop/cbop-rebuttal/blob/main/probability_of_improvement_full.png" width="300">
 
 2. When we compare EDAC, CBOP-EDAC (w. EDAC pretraining), and CBOP-BC+PE (w/o EDAC pretraining). Results are evaluated on 9 locomotion configurations (3 tasks per environment).
 
 <img src="https://github.com/neurips-cbop/cbop-rebuttal/blob/main/locomotion_aggregates_9tasks.png" width="1000">
+
+__[Added]  Probabilities of CBOP-BC+PE being better than EDAC and CBOP-EDAC__:
 
 <img src="https://github.com/neurips-cbop/cbop-rebuttal/blob/main/probability_of_improvement_9_tasks.png" width="300">
 
